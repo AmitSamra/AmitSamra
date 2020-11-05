@@ -1,6 +1,6 @@
 ![portfolio](img/portfolio.png)
 
-# Projects
+# Portfolio
 
 ### 1. [Analysis of Personal Amazon.com Order History](https://github.com/AmitSamra/DataEngineering.Labs.AirflowProject)
 ![amazon_logo2](img/amazon_logo2.png)
