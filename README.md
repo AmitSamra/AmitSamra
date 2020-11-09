@@ -2,12 +2,12 @@
 
 # Projects
 
-### 1. [Analysis of Personal Amazon.com Order History](https://github.com/AmitSamra/DataEngineering.Labs.AirflowProject)
+### 1. [Analysis of Personal Amazon.com Order History](https://github.com/AmitSamra/AmazonOrderHistoryAirflowAWS)
 ![amazon_logo2](img/amazon_logo2.png)
 
 Tools Utilized: Python, Pandas, PostgreSQL, SQLAlchemy, Airflow, AWS
 
-Obtained personal Amazon.com order history stored on AWS, wrangled data using Pandas, loaded data into SQL database and utilized matplotlib in Jupyter to perform data visualizations. 
+Obtained personal Amazon.com order history stored on AWS S3, wrangled data using Pandas, loaded data into PostgreSQL database on AWS RDS and utilized matplotlib in Jupyter to create data visualizations. ETL pipeline was automated using Airflow.
 
 [Home](https://github.com/AmitSamra#)
 
