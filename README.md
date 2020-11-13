@@ -11,7 +11,7 @@ Obtained personal Amazon.com order history stored on AWS S3, wrangled data using
 
 [Home](https://github.com/AmitSamra#)
 
-### 2. [Exploring NYC Crime Statistics](https://github.com/AmitSamra/Week9-ResearchProjects)
+### 2. [Exploring NYC Crime Statistics](https://github.com/AmitSamra/NYC_Crime)
 
 ![crime](img/crime.png)
 
