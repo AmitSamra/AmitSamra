@@ -6,6 +6,7 @@
 ![amazon_logo2](img/amazon_logo2.png)
 
 Tools Utilized: Python, Pandas, Matplotlib, PostgreSQL, SQLAlchemy, AWS, Airflow
+
 ![python_logo](img/python_logo.png)![pandas_logo](img/pandas_logo.png)![matplotlib_logo](img/matplotlib_logo.png)![postgres_logo](img/postgres_logo.png)![sqlalchemy_logo](img/sqlalchemy_logo.png)![aws_logo.png](img/aws_logo.png)![airflow_logo](img/airflow_logo.png)
 
 Obtained personal Amazon.com order history stored on AWS S3, wrangled data using Pandas, loaded data into PostgreSQL database on AWS RDS and utilized matplotlib in Jupyter to create data visualizations. ETL pipeline was automated using Airflow.
