@@ -15,7 +15,7 @@ Obtained personal Amazon.com order history stored on AWS S3, wrangled data using
 
 ![crime](img/crime.png)
 
-Tools Utilized: R, ggplot, MongoDB
+Tools Utilized: R, ggplot2, Python, Pandas, MySQL, SQLAlchemy, Socrata
 
 Learned and applied R language to wrangle data and perform visualizations using ggplot; loaded transformed data into MongoDB NoSQL database. 
 
