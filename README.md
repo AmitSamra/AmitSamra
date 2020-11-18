@@ -15,7 +15,7 @@ Obtained personal Amazon.com order history stored on AWS S3; wrangled data using
 
 ![crime](img/crime.png)
 
-Tools Utilized: R, ggplot2, Python, Pandas, MySQL, SQLAlchemy, Socrata
+Tools Utilized: R, ggplot2, Python, Pandas, MySQL, SQLAlchemy, Socrata, MongoDB
 
 Acquired data from Socrata API and wrangled performed ETL in Python; persisted clean data into MySQL; used R to perform visualizations using ggplot2; loaded transformed data into MongoDB NoSQL database. 
 
