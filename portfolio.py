@@ -2,9 +2,9 @@
 # Portfolio
 
 skills = {
-	'proficient':['python', 'numpy', 'pandas', 'matplotlib', 'postgres', 'mysql', 'tableau', 'airflow'],
-	'familiar':['r', 'mongodb', 'aws', 'kafka', 'spark']
-	}
+	'proficient':['python', 'numpy', 'pandas', 'postgres', 'mysql', 'tableau', 'airflow'],
+	'familiar':['r', 'ggplot2', 'matplotlib', 'mongodb', 'aws', 'kafka', 'spark']
+}
 
 for i,j in skills.items():
     if i == 'proficient':
