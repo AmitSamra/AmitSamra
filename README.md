@@ -17,7 +17,7 @@ Obtained personal Amazon.com order history stored on AWS S3; wrangled data using
 
 Tools Utilized: R, ggplot2, Python, Pandas, MySQL, SQLAlchemy, Socrata, MongoDB, Tableau
 
-Acquired data from Socrata API and wrangled performed ETL in Python; persisted clean data into MySQL; used R to perform visualizations using ggplot2; loaded transformed data into MongoDB NoSQL database; utilized Tableau to generate additional visualizations. 
+Acquired data from Socrata API and performed ETL in Python; persisted clean data into MySQL; used R to create visualizations using ggplot2; loaded transformed data into MongoDB NoSQL database; utilized Tableau to generate additional visualizations. 
 
 [Home](https://github.com/AmitSamra#)
 
