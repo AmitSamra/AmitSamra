@@ -3,7 +3,7 @@
 # Projects
 
 ### 1. [Analysis of Personal Amazon.com Order History](https://github.com/AmitSamra/AmazonOrderHistoryAirflowAWS)
-![amazon_logo_2](img/amazon_logo_2.png)
+![amazon_logo_2_small](img/amazon_logo_2_small.png)
 
 Tools Utilized: Python, Pandas, Matplotlib, PostgreSQL, SQLAlchemy, AWS, Airflow
 
