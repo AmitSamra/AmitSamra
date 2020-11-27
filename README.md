@@ -30,3 +30,11 @@ Tools Utilized: Python, Pandas, NLTK, Spark, Airflow
 As a group, used yfinance and NLTK Python modules, Twitter API and NewsAPI to correlate number of tweets referencing ‘Tesla’ and NLP of news headlines with change in Tesla’s stock price; utilized Airflow, Spark, pandas and matplotlib; Personally responsible for data acquisition from APIs, NLP and regression model. 
 
 [Home](https://github.com/AmitSamra#)
+
+### 4. [A 10,000 Foot Overview of Financial Markets](https://github.com/AmitSamra/Bonds)
+
+Tools Utilized: Quandl, Python, Pandas, Matplotlib
+
+Accessed financial data using the Quandl API; performed ETL using Python/Pandas; created visualization using Matplotlib.
+
+[Home](https://github.com/AmitSamra#)
