@@ -32,6 +32,7 @@ As a group, used yfinance and NLTK Python modules, Twitter API and NewsAPI to co
 [Home](https://github.com/AmitSamra#)
 
 ### 4. [A 10,000 Foot Overview of Financial Markets](https://github.com/AmitSamra/Bonds)
+![bond_logo_small](img/bond_logo_small.png)
 
 Tools Utilized: Quandl, Python, Pandas, Matplotlib
 
