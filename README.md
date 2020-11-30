@@ -17,7 +17,7 @@ As a group, used yfinance and NLTK Python modules, Twitter API and NewsAPI to co
 
 Tools Utilized: Python, Pandas, Matplotlib, PostgreSQL, SQLAlchemy, AWS, Airflow
 
-Obtained personal Amazon.com order history stored on AWS S3; wrangled data using Pandas; loaded clean data into PostgreSQL database on AWS RDS and utilized matplotlib in Jupyter to create data visualizations; ETL pipeline was automated using Airflow; moved project onto an EC2 instance so it runs entirely on the cloud.
+Obtained personal Amazon.com order history stored on AWS S3; wrangled data using Pandas; loaded clean data into PostgreSQL database on AWS RDS and utilized matplotlib in Jupyter to create data visualizations; ETL pipeline was automated using Airflow; moved project onto an EC2 instance to run entirely on the cloud.
 
 [Home](https://github.com/AmitSamra#)
 
