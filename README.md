@@ -22,17 +22,7 @@ As a group, used yfinance and NLTK Python modules, Twitter API and NewsAPI to co
 
 [Home](https://github.com/AmitSamra#)
 
-### 3. [Exploring NYC Crime Statistics](https://github.com/AmitSamra/NYC_Crime)
-
-![crime](img/crime.png)
-
-Tools Utilized: R, ggplot2, Python, Pandas, MySQL, SQLAlchemy, Socrata, MongoDB, Tableau
-
-Acquired data from Socrata API and performed ETL in Python; persisted clean data into MySQL; used R to create visualizations using ggplot2; loaded transformed data into MongoDB NoSQL database; utilized Tableau to generate additional visualizations. 
-
-[Home](https://github.com/AmitSamra#)
-
-### 4. [A 10,000 Foot Overview of Financial Markets](https://github.com/AmitSamra/Bonds)
+### 3. [A 10,000 Foot Overview of Financial Markets](https://github.com/AmitSamra/Bonds)
 
 ![bond_logo_small](img/bond_logo_small.png)
 
