@@ -12,13 +12,13 @@ Obtained personal Amazon.com order history stored on AWS S3; wrangled data using
 
 [Home](https://github.com/AmitSamra#)
 
-### 2. [Determining Tesla Stock Price](https://github.com/rich1123/Sentiment.Analysis)
+### 2. [Exploring NYC Crime Statistics](https://github.com/AmitSamra/NYC_Crime)
 
-![musk](img/musk.png)
+![crime](img/crime.png)
 
-Tools Utilized: Python, Pandas, NLTK, Spark, Airflow
+Tools Utilized: R, ggplot2, Python, Pandas, MySQL, SQLAlchemy, Socrata, MongoDB, Tableau
 
-As a group, used yfinance and NLTK Python modules, Twitter API and NewsAPI to correlate number of tweets referencing ‘Tesla’ and Natural Language Processing of news headlines with change in Tesla’s stock price; utilized Airflow, Spark, Pandas and Matplotlib; Personally responsible for data acquisition from APIs, data wrangling, NLP and regression model. 
+Acquired data from Socrata API and performed ETL in Python; persisted clean data into MySQL; used R to create visualizations using ggplot2; loaded transformed data into MongoDB NoSQL database; utilized Tableau to generate additional visualizations. 
 
 [Home](https://github.com/AmitSamra#)
 
